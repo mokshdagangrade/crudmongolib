@@ -8,7 +8,7 @@ setup(
   author = 'Mokshda Gangrade',                   # Type in your name
   author_email = 'mokshdagangrade@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/mokshdagangrade/crudmongolib',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/mokshdagangrade/crudmongolib/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/mokshdagangrade/crudmongolib/archive/refs/tags/v_01.tar.gz',
   keywords = ['CRUD', 'MONGO', 'INSERT', 'UPDATE', 'DELETE', 'READ'],   # Keywords that define your package best
   install_requires=['pymongo'],
   setup_requires=['pytest-runner'],
